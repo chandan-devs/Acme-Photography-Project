@@ -8,4 +8,4 @@
 
 ## Live Demo 
 
-[Live Demo Link](<a href="https://chandan-devs.github.io/Acme-Photography-Project/" target="_blank"></a>)
+(<a href="https://chandan-devs.github.io/Acme-Photography-Project/" target="_blank">[Live Demo Link]</a>)
