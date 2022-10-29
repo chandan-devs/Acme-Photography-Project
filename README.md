@@ -8,4 +8,4 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://chandan-devs.github.io/Acme-Photography-Project/){:target="_blank"}
+[Live Demo Link](https://chandan-devs.github.io/Acme-Photography-Project/){:target="_blank" rel="noopener"}
