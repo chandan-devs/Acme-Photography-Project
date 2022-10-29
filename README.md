@@ -8,4 +8,4 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://chandan-devs-tech.github.io/Hello-World/)
+[Live Demo Link](https://chandan-devs.github.io/Acme-Photography-Project/)
